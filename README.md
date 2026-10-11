@@ -13,6 +13,8 @@ Microsoft Certified: Power BI Data Analyst Associate
 CompTIA Cybersecurity Analyst (CySA+) CS0-003 Specialization, Pearson via Coursera (Nov 2025)
 Google Data Analytics Professional Certificate, Google via Coursera (Oct 2025)
 Generative AI in Software Development, Amazon via Coursera (Sep 2025)
+
+
 Projects
 
 XtraMural A web application for managing extramural activities. Built with HTML and CSS, with a claymorphism-based UI design applied consistently across 13 pages.
