@@ -1,16 +1,18 @@
-## Hi there 👋
+Kabelo Mokgobu
 
-<!--
-**KabeloCode-Byte/KabeloCode-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer based in Johannesburg, South Africa.
 
-Here are some ideas to get you started:
+Fourth-year Computer Science and Informatics student at the University of Johannesburg. I build web applications with a focus on clean, usable interfaces and reliable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Education
+
+BSc Computer Science and Informatics, University of Johannesburg (final year)
+
+Certifications
+Microsoft Certified: Power BI Data Analyst Associate
+CompTIA Cybersecurity Analyst (CySA+) CS0-003 Specialization, Pearson via Coursera (Nov 2025) - Verify
+Google Data Analytics Professional Certificate, Google via Coursera (Oct 2025) - Verify
+Generative AI in Software Development, Amazon via Coursera (Sep 2025) - Verify
+Projects
+
+XtraMural A web application for managing extramural activities. Built with HTML and CSS, with a claymorphism-based UI design applied consistently across 13 pages.
