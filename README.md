@@ -16,3 +16,5 @@ Generative AI in Software Development, Amazon via Coursera (Sep 2025)
 Projects
 
 XtraMural A web application for managing extramural activities. Built with HTML and CSS, with a claymorphism-based UI design applied consistently across 13 pages.
+
+Loan Repayment Engine. Built with c#.
