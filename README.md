@@ -56,4 +56,4 @@ Java client-server quiz application built with socket programming. University ne
 - Phone: [+27 68 072 9469](tel:+27680729469)
 - GitHub: [KabeloCode-Byte](https://github.com/KabeloCode-Byte)
 - Location: Johannesburg, South Africa
-- LinkedIn: [Kabelo Mokgobu](hwww.linkedin.com/in/kabelo-mokgobu)
+- LinkedIn: [Kabelo Mokgobu](https://www.linkedin.com/in/kabelo-mokgobu/)
